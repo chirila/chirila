@@ -1,5 +1,12 @@
 
-I'm a professor of Linguistics, working on various questions about language documentation and change.
+
+Welcome to CHIRILA, a database of the languages of Australia.
+
+- You can read more [about](docs/about.md) the database and its history.
+- See a list of the people who have provided data, as well as other [acknowledgments](docs/acknow.md).
+- See how to [cite](cite.md) the database, and the paper about it.
+- Read the [terms of use](terms.md) before proceeding to the download area.
+- See the current database statistics. [to come]
 
 <!--
 **chirila/chirila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
